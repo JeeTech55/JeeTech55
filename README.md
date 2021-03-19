@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeeTech55
-- 👀 I’m interested in coading, making Apps and Games
+- 👀 I’m interested in Coading, making apps and games
 - 🌱 I’m currently learning Java and android studio
 
 <!---
